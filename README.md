@@ -10,7 +10,7 @@ There are five members of the development team, two programmers, two artists, an
 
 The theme of this game development is: Reborn.
 
-## 设计思路
+## Design
 
 To be honest, the theme of rebirth is already very common. The mechanism of dragging corpses and ordinary Roguelike dungeon games are very suitable for this theme. Therefore, at the beginning of the design, I decided to avoid these aspects in terms of theme and game mechanism.
 
